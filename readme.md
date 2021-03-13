@@ -3,7 +3,9 @@
 ## Introduction
 
 > A working example of C++ OpenGL usage with GLEW, GLFW3, and SOIL2. 
+> 
 > Procedurally generates terrain using FastNoiseLite.
+> 
 > Works with windows only, small tweaks for MacOS and Linux compilation.
 
 ## Images
@@ -14,6 +16,10 @@
 ## Installation
 
 > Requires a [GLEW](http://glew.sourceforge.net/), [GLFW3](https://www.glfw.org/), and [SOIL2](https://github.com/SpartanJ/SOIL2).
-> Follow instructions for installation for your compiler being used.
+> 
+> Follow individual instructions for installation for your compiler being used.
+> 
+> I suggest using visual studio Win32 build.
+> 
 > Update makefile if necessary.
 
